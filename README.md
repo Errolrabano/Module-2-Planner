@@ -1,37 +1,39 @@
-###Valorant
+###Valorant###
 
 1. KEY CHARACTERISTICS
-    1. description on characteristics 1
-    2. description on characteristics 2
-    3. description on characteristics 3
+    1. Guides (lineups, tricks, agents, etc...)
+    2. Patch notes
+    3. Event 
+    4. Maps 
 2. SIMILAR WEBSITES
-    1. Website 1 - (web link)
-        1. Similarities of website 1 to my website
-        2. Similarities of website 2 to my website
-    2. Website 2 - (web link)
-        1. Similarities of website 1 to my website
-        2. Similarities of website 2 to my website
+    1. tracker- (https://tracker.gg/valorant)
+        1. lineup guides
+        2. login
+    2. blitz - (https://blitz.gg/valorant)
+        1. videos
+        2. agents guides 
 
 ### WEBSITE PURPOSE AND GOALS ###
 
 1. PURPOSE
-    1. blank
+    1. Showcase guides, tricks, and character
 2. GOALS
     1. PRIMARY GOALS
-        1. Primary goal 1
-        2. Primary goal 2
+        1. Have all the information of guides and a way where it's interactive 
+        2. Have a list of champs that has information
     2. SECONDARY GOALS
-        1. Secondary goal 1
-        2. Secondary goal 2
+        1. Make it look nice and simple
+        2. Simple navigation and add some interation 
 3. MILESTONES
-    1. E.g., Adding and item to a cart
-    2. E.g., Adding and email to a mailing list
+    1. Display the agents with a picture and a name either hovering or below the picture
+    2. Display the patch notes explaining the changes 
+    3. Display the guides in its own section and it will have videos, a map, and champ guide 
+    4. Add sound effects when clicking a button or having little soft music in the background 
 4. METRICS
         1. ALL METRICS
-            1. Metric 1
-            2. Metric 2
-        2. KPIs - Key performance indicators
-            1. E.g., Number of newsletters
+            1. How many people pick the agents 
+            2. 
+      
 5. ANALYTICS
     1. General (optional)
     2. Tools
