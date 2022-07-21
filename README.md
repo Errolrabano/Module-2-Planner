@@ -36,8 +36,8 @@
        3. How many people enter the website
       
 5. ANALYTICS
-    1. General (optional)
-    2. Tools
+    1. https://analytics.google.com/analytics/web/
+    2. https://metrica.yandex.com/about
 
 ### WEBSITE CONTENT: TEXT AND IMAGES ###
 
@@ -50,7 +50,8 @@
 3. IMAGES TOOLS
     1. https://www.pexels.com/ 
     2. https://pixabay.com/
-    3. https://freerangestock.com/search/all/game
+    3. https://freerangestock.com/search/all/game 
+    4. https://icons8.com/icons
 5. ACCESSIBILITY
     1. Color blind 
     2. Increase/Decrease on Text
@@ -63,7 +64,7 @@
 ### WEBSITE CONTENT: FUNDAMENTALS ###
 
 1. SITEMAP
-
+https://www.gloomaps.com/bsq6dcC4lg
 2. LAYOUT CONSIDERATIONS
     1. Top Header 
     2. Title with a video background  
@@ -78,6 +79,9 @@
 4. COLORS
     1. Color 1
         1. Color Change Depending On Character
+    
+    ![image](https://user-images.githubusercontent.com/108141836/180247808-def2e3b4-3610-435b-b828-b18a3efe38bc.png)
+    
     2. etc
 6. FUNCTIONALITY
     1. Comment Section for people to interact 
@@ -90,8 +94,9 @@
 ### MOCKUP DESIGNS ###
 
 1. Mockup design 1
-    1. Description
-    2. Image/mockup
-2. Mockup design 2
-    1. Description
-    2. Image/mockup
+    1. Simple Main Screen
+    2. https://www.figma.com/file/XWzwXKQfidQk6ge9tZt0aP/Untitled?node-id=0%3A1
+
+2. Mockup design 
+    1. Organized and clean and will show the character with a name under it
+    2. https://www.figma.com/file/XWzwXKQfidQk6ge9tZt0aP/Untitled?node-id=2%3A17
