@@ -30,11 +30,10 @@
     3. Display the guides in its own section and it will have videos, a map, and champ guide 
     4. Add sound effects when clicking a button or having little soft music in the background 
 4. METRICS
-        
-        1. ALL METRICS
-            1. How many people view the agent 
-            2. How many people view the guides 
-            3. How many people enter the website
+    1. ALL METRICS
+       1. How many people view the agent 
+       2. How many people view the guides 
+       3. How many people enter the website
       
 5. ANALYTICS
     1. General (optional)
