@@ -97,6 +97,6 @@ https://www.gloomaps.com/bsq6dcC4lg
     1. Simple Main Screen
     2. https://www.figma.com/file/XWzwXKQfidQk6ge9tZt0aP/Untitled?node-id=0%3A1
 
-2. Mockup design 
+2. Mockup design 2
     1. Organized and clean and will show the character with a name under it
     2. https://www.figma.com/file/XWzwXKQfidQk6ge9tZt0aP/Untitled?node-id=2%3A17
