@@ -1,4 +1,4 @@
-###Valorant###
+### Valorant ###
 
 1. KEY CHARACTERISTICS
     1. Guides (lineups, tricks, agents, etc...)
@@ -31,8 +31,9 @@
     4. Add sound effects when clicking a button or having little soft music in the background 
 4. METRICS
         1. ALL METRICS
-            1. How many people pick the agents 
-            2. 
+            1. How many people view the agent 
+            2. How many people view the guides 
+            3. How many people enter the website
       
 5. ANALYTICS
     1. General (optional)
@@ -41,50 +42,50 @@
 ### WEBSITE CONTENT: TEXT AND IMAGES ###
 
 1. RESEARCH WORK
-    1. blank
-2. TEXT
-    1. E.g., CALL TO ACTION
-        1. Call to action description here
-    2. E.g., SALES PITCH 1
-        1, Sales pitch description here
-    3. E.g., SALES PITCH 2
-        1. Sales pitch description here
-3. IMAGES
-    1. Image banks
-4. TOOLS
-    1. Text tool 1
-        1. Description
+    1. Valorant, blitz, and tracker website
+2. TEXT TOOLS
+    1. https://www.messletters.com/en/ 
+    2. https://texttools.org/ 
+    3. https://cooltext.com/
+3. IMAGES TOOLS
+    1. https://www.pexels.com/ 
+    2. https://pixabay.com/
+    3. https://freerangestock.com/search/all/game
 5. ACCESSIBILITY
-    1. Accessibility consideration 1
-    2. Accessibility consideration 2
-    3. Etc
+    1. Color blind 
+    2. Increase/Decrease on Text
+    3. Etc 
+6. TEXT TEMPLATES 
+    1. "Best Guides and Information"  
+    2. "Behind you Behind you Behind you"
+    3. "Mega Mommy Sage Heal Me"
 
 ### WEBSITE CONTENT: FUNDAMENTALS ###
 
 1. SITEMAP
 
 2. LAYOUT CONSIDERATIONS
-    1. Description
+    1. Top Header 
+    2. Title with a video background  
+    3. Picture of champs and their name under it 
 3. TYPOGRAPHY
-    1. Font 1
-        1. Description of why you chose Font 1
-    2. etc
+    1. Clear 
+    2. Spaced
+    3. Organized
+    4. Big Text Size
+    5. Spacing In Between Words 
+    6. etc
 4. COLORS
     1. Color 1
-        1. Description of why you chose Color 1
+        1. Color Change Depending On Character
     2. etc
-5. SITEWIDE ACCESSIBILITY CONSIDERATIONS
-    1. Accessibility consideration 1
-        1. Description
-    2. Accessibility consideration 2
-        1. Description
-    3. Etc
 6. FUNCTIONALITY
-    1. Funtionality 1
-        1. Description
-    2. Etc
+    1. Comment Section for people to interact 
+    2. Interactions with Character 
+    3. Sounds on Buttons 
+    4. Etc
 7. TARGET AUDIENCE
-    1. Description of target audience
+    1. Valorant Player or people who don't know and are interested in playing 
 
 ### MOCKUP DESIGNS ###
 
