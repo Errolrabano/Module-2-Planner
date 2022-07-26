@@ -7,11 +7,11 @@
     4. Maps (A center map which display it's layout and includes where the guide and tricks are located
 2. SIMILAR WEBSITES
     1. tracker- (https://tracker.gg/valorant)
-        1. lineup guides
+        1. lineup guides (Lineup is when a player positions themselves to setip a abillity to guarantee that their ability lands in a certain way)
         2. players can login
     2. blitz - (https://blitz.gg/valorant)
-        1. videos of guide, tricks, information, etc.
-        2. agents guides
+        1. videos of tricks (where a player positions themselves unexpectedly which catches the opponents by suprise)
+        2. agents guides (has videos explaining the agents)
 
 ### WEBSITE PURPOSE AND GOALS ###
 
@@ -57,8 +57,8 @@
     3. https://freerangestock.com/search/all/game 
     4. https://icons8.com/icons
 5. ACCESSIBILITY
-    1. Color blind
-    2. Increase/Decrease on Text
+    1. Color blind (allows them to see the correct colors)
+    2. Increase/Decrease on Text (allows them to increase the character which allows them to see it clearly and decrease if too large)
     3. Etc 
 6. TEXT TEMPLATES 
     1. "Best Guides and Information"  
@@ -76,11 +76,11 @@ https://www.gloomaps.com/bsq6dcC4lg
     2. Title with a video background  
     3. Picture of champs and their name under it 
 3. TYPOGRAPHY
-    1. Clear 
-    2. Spaced
-    3. Organized
-    4. Big Text Size
-    5. Spacing In Between Words 
+    1. Clear (simple and clear for the person to understand)
+    2. Spaced (everything is spaced out, nothing to much, and is not to compact)
+    3. Organized (not sloppy where it's just there randomly out in the open)
+    4. Big Text Size (allows the person the read it clearly)
+    5. Spacing In Between Words (not too compact and can read clearly)
     6. etc
 4. COLORS
     1. Color 1
@@ -90,9 +90,9 @@ https://www.gloomaps.com/bsq6dcC4lg
     
     2. etc
 6. FUNCTIONALITY
-    1. Comment Section for people to interact 
-    2. Interactions with Character 
-    3. Sounds on Buttons 
+    1. Comment Section for people to interact (allows people to view and talk with the community)
+    2. Interactions with Character (which will have voice lines which allows the person the listen and interact)
+    3. Sounds on Buttons which allows it to be more professional and interesting instead of the website being boring
     4. Etc
 7. TARGET AUDIENCE
     1. Valorant Player or people who don't know and are interested in playing 
